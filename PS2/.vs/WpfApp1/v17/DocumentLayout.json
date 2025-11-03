@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\main||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:main||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\models\\pakcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:models\\pakcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\models\\pakitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:models\\pakitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|c:\\users\\erik\\source\\repos\\wpfapp1\\models\\pakmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4CF147-F25A-4BC7-A5D7-0A3C4CA1070A}|WpfApp1.csproj|solutionrelative:models\\pakmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Main",
+              "RelativeDocumentMoniker": "Main",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Main",
+              "RelativeToolTip": "Main",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-01T18:49:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PakCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakCategory.cs",
+              "RelativeDocumentMoniker": "Models\\PakCategory.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakCategory.cs",
+              "RelativeToolTip": "Models\\PakCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:39:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T23:24:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv08AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:50:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PakMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\PakMetadata.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakMetadata.cs",
+              "RelativeToolTip": "Models\\PakMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:06:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T20:51:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADABAAAAAAAAAADgv0cBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:58:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PakItem.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakItem.cs",
+              "RelativeDocumentMoniker": "Models\\PakItem.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\WpfApp1\\Models\\PakItem.cs",
+              "RelativeToolTip": "Models\\PakItem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:58:49.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
